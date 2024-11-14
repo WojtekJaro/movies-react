@@ -1,10 +1,11 @@
 import React from 'react'
 
-const ActorsPage = () => {
+const Hero = () => {
   return (
     <div>
+      
     </div>
   )
 }
 
-export default ActorsPage
+export default Hero
